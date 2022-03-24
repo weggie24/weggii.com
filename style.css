@@ -62,7 +62,7 @@ b:link, b:visited{
     margin-top: auto;
     margin-bottom: auto;
     border-radius: 30px;
-    transition: 0.6s ease;
+    transition: 0.3s ease;
 }
 b:hover,b:active{
     background-color: #ffffff;
@@ -94,7 +94,7 @@ b:hover,b:active{
     margin-top: auto;
     margin-bottom: auto;
     border-radius: 30px;
-    transition: 0.6s ease;
+    transition: 0.3s ease;
     margin-right: 20px;
 }
 .gallery{
@@ -108,7 +108,7 @@ b:hover,b:active{
     margin-top: auto;
     margin-bottom: auto;
     border-radius: 30px;
-    transition: 0.6s ease;
+    transition: 0.3s ease;
 }
     
 
