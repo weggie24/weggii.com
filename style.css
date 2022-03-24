@@ -101,6 +101,10 @@ b:hover,b:active{
     transition: 0.3s ease;
     margin-right: 20px;
 }
+.videos:hover{
+    background-color: #ffffff;
+    color: black;
+}
 .gallery{
     background-color: cyan;
     font-size: 20px;
@@ -113,6 +117,10 @@ b:hover,b:active{
     margin-bottom: auto;
     border-radius: 30px;
     transition: 0.3s ease;
+}
+.gallery:hover{
+    background-color: #ffffff;
+    color: black;
 }
     
 
