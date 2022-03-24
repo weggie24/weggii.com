@@ -83,6 +83,10 @@ b:hover,b:active{
     transition: 0.6s ease;
     margin-right: 20px;
 }
+.blogs:hover {
+    background-color: #ffffff;
+    color: black;
+}
 .videos{
     background-color: cyan;
     font-size: 20px;
